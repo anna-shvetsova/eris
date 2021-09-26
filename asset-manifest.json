@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/eris/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/eris/static/js/main.26ffea07.chunk.js",
+    "main.js.map": "/eris/static/js/main.26ffea07.chunk.js.map",
+    "runtime-main.js": "/eris/static/js/runtime-main.f6c5b024.js",
+    "runtime-main.js.map": "/eris/static/js/runtime-main.f6c5b024.js.map",
+    "static/js/2.14ac6262.chunk.js": "/eris/static/js/2.14ac6262.chunk.js",
+    "static/js/2.14ac6262.chunk.js.map": "/eris/static/js/2.14ac6262.chunk.js.map",
+    "static/js/3.335bb7c4.chunk.js": "/eris/static/js/3.335bb7c4.chunk.js",
+    "static/js/3.335bb7c4.chunk.js.map": "/eris/static/js/3.335bb7c4.chunk.js.map",
+    "index.html": "/eris/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/eris/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.14ac6262.chunk.js.LICENSE.txt": "/eris/static/js/2.14ac6262.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f6c5b024.js",
+    "static/js/2.14ac6262.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.26ffea07.chunk.js"
+  ]
+}
